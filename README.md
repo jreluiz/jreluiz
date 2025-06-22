@@ -1,16 +1,25 @@
-## Hi there 👋
+### 🧮 Jorge Luiz a.k.a jreluiz
+---
 
-<!--
-**jreluiz/jreluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am coding at [Unicamp](https://unicamp.br/).
 
-Here are some ideas to get you started:
+At the moment my **main interests** are: 
+```python
+[
+    "Architecture", "Engineering", "Programming", "Self-Adaptive Systems", "IA", 
+    "Flask", "Django", "FastAPI", "HTTP", "REST", 
+    "Javascript", "Vuejs", "React", 
+    "Postgres", "SQL", "MongoDB", "ElasticSearch", 
+    "Docker", "K8s", "Nginx", "Apache", "Superset", "Echarts"
+]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin: jreluiz](https://img.shields.io/badge/-jreluiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jreluiz/)](https://www.linkedin.com/in/jreluiz/)
+[![GitHub jreluiz](https://img.shields.io/github/followers/jreluiz?label=follow&style=social)](https://github.com/jreluiz)
+
+<div align="left">
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jreluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreluiz&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,html" />
+</div>
+
