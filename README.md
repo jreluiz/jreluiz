@@ -19,7 +19,7 @@ At the moment my **main interests** are:
 [![GitHub jreluiz](https://img.shields.io/github/followers/jreluiz?label=follow&style=social)](https://github.com/jreluiz)
 
 <div align="left">
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jreluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreluiz&layout=compact&theme=dracula&langs_count=12&hide=jupyter%20notebook,html&include_all_commits=true" />
+  <!-- <img height="160em" src="https://github-stats-extended.vercel.app/api?username=jreluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jreluiz&layout=compact&theme=dracula&langs_count=12&hide=jupyter%20notebook,html&include_all_commits=true" />
 </div>
 
