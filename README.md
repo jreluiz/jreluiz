@@ -6,11 +6,20 @@ Currently I am coding at [Unicamp](https://unicamp.br/).
 At the moment my **main interests** are: 
 ```python
 [
-    "Architecture", "Engineering", "Programming", "Self-Adaptive Systems", "IA", 
-    "FastAPI", "HTTP", "REST", "Flask", "Django",
-    "Javascript", "Vuejs", "React", 
-    "Postgres", "SQL", "MongoDB", "ElasticSearch", 
-    "Docker", "K8s", "Nginx", "Apache", "Superset", "Echarts"
+    "Software Architecture",
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Backend Development",
+    "Frontend Development",
+    "Distributed Systems",
+    "API Design",
+    "Programming Languages",
+    "Databases",
+    "Cloud Computing",
+    "DevOps",
+    "Containers",
+    "Open Source",
+    "Higher Education"
 ]
 ```
 
